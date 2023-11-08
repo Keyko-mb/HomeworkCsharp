@@ -1,0 +1,9 @@
+C:\Users\shafi\source\repos\Lab3\Lab3(3)\bin\Debug\Lab3(3).exe.config
+C:\Users\shafi\source\repos\Lab3\Lab3(3)\bin\Debug\Lab3(3).exe
+C:\Users\shafi\source\repos\Lab3\Lab3(3)\bin\Debug\Lab3(3).pdb
+C:\Users\shafi\source\repos\Lab3\Lab3(3)\obj\Debug\Lab3(2).csproj.AssemblyReference.cache
+C:\Users\shafi\source\repos\Lab3\Lab3(3)\obj\Debug\Lab3_3_.Properties.Resources.resources
+C:\Users\shafi\source\repos\Lab3\Lab3(3)\obj\Debug\Lab3(2).csproj.GenerateResource.cache
+C:\Users\shafi\source\repos\Lab3\Lab3(3)\obj\Debug\Lab3(2).csproj.CoreCompileInputs.cache
+C:\Users\shafi\source\repos\Lab3\Lab3(3)\obj\Debug\Lab3(3).exe
+C:\Users\shafi\source\repos\Lab3\Lab3(3)\obj\Debug\Lab3(3).pdb
