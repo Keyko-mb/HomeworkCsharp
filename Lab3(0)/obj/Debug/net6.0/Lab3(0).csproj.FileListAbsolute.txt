@@ -12,3 +12,17 @@ C:\Users\shafi\source\repos\Lab3\Lab3(0)\obj\Debug\net6.0\refint\Lab3(0).dll
 C:\Users\shafi\source\repos\Lab3\Lab3(0)\obj\Debug\net6.0\Lab3(0).pdb
 C:\Users\shafi\source\repos\Lab3\Lab3(0)\obj\Debug\net6.0\Lab3(0).genruntimeconfig.cache
 C:\Users\shafi\source\repos\Lab3\Lab3(0)\obj\Debug\net6.0\ref\Lab3(0).dll
+C:\Users\shafi\Source\Repos\HomeworkCsharp\Lab3(0)\bin\Debug\net6.0\Lab3(0).exe
+C:\Users\shafi\Source\Repos\HomeworkCsharp\Lab3(0)\bin\Debug\net6.0\Lab3(0).deps.json
+C:\Users\shafi\Source\Repos\HomeworkCsharp\Lab3(0)\bin\Debug\net6.0\Lab3(0).runtimeconfig.json
+C:\Users\shafi\Source\Repos\HomeworkCsharp\Lab3(0)\bin\Debug\net6.0\Lab3(0).dll
+C:\Users\shafi\Source\Repos\HomeworkCsharp\Lab3(0)\bin\Debug\net6.0\Lab3(0).pdb
+C:\Users\shafi\Source\Repos\HomeworkCsharp\Lab3(0)\obj\Debug\net6.0\Lab3(0).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafi\Source\Repos\HomeworkCsharp\Lab3(0)\obj\Debug\net6.0\Lab3(0).AssemblyInfoInputs.cache
+C:\Users\shafi\Source\Repos\HomeworkCsharp\Lab3(0)\obj\Debug\net6.0\Lab3(0).AssemblyInfo.cs
+C:\Users\shafi\Source\Repos\HomeworkCsharp\Lab3(0)\obj\Debug\net6.0\Lab3(0).csproj.CoreCompileInputs.cache
+C:\Users\shafi\Source\Repos\HomeworkCsharp\Lab3(0)\obj\Debug\net6.0\Lab3(0).dll
+C:\Users\shafi\Source\Repos\HomeworkCsharp\Lab3(0)\obj\Debug\net6.0\refint\Lab3(0).dll
+C:\Users\shafi\Source\Repos\HomeworkCsharp\Lab3(0)\obj\Debug\net6.0\Lab3(0).pdb
+C:\Users\shafi\Source\Repos\HomeworkCsharp\Lab3(0)\obj\Debug\net6.0\Lab3(0).genruntimeconfig.cache
+C:\Users\shafi\Source\Repos\HomeworkCsharp\Lab3(0)\obj\Debug\net6.0\ref\Lab3(0).dll
